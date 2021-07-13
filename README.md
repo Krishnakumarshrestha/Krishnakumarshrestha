@@ -1,7 +1,10 @@
-## Hello, I'm  Krishna Kumar Shrestha
+## Hello, I'm  Krishna Kumar Shrestha.  
+### Currently I am pursuing Acturial Science 
 
-<p align="left">
+<p align="Center">
 
+  
+I am from :nepal: 
 
 
 </p>
@@ -23,6 +26,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnakumarshrestha&theme=light&hide_langs_below=1" />
 </a>
 
-
-[![Krishna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Krishnakumarshrestha)](https://github.com/Krishnakumarshrestha/github-readme-stats)
 
