@@ -4,7 +4,7 @@
 <p align="Center">
 
   
-I am from :nepal: 
+I am from 🇳🇵 
 
 
 </p>
