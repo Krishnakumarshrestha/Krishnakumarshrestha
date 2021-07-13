@@ -2,7 +2,7 @@
 
 <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=iampawan&amp;label=Views&amp;color=blue&amp;style=plastic" alt="iampawan"/>
+
 
 </p>
 
@@ -18,4 +18,4 @@
 
 -   😄 Pronouns: He/His.
 
-<a href="https://github.com/Krishnakumarshrestha"> </a> <a href="https://github.com/Krishnakumarshrestha"> <img src="https://github-readme-stats.vercel.app/api?username=iampawan&amp;show_icons=true&amp;theme=light&amp;line_height=27" alt="Pawan&apos;s github stats" align="center"/>
+![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=Krishnakumarshrestha)
