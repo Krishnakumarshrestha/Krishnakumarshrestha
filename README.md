@@ -19,3 +19,6 @@
 -   😄 Pronouns: He/His.
 
 ![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=Krishnakumarshrestha)
+<a href="https://github.com/Krishnakumarshrestha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnakumarshrestha&theme=light&hide_langs_below=1" />
+</a>
