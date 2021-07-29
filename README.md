@@ -1,5 +1,5 @@
 ## Hello, I'm  Krishna Kumar Shrestha.  
-### Currently I am pursuing Acturial Science 
+### Currently I am pursuing Actuarial Science
 
 <p align="Center">
 
